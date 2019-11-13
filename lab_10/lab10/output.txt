@@ -1,0 +1,8 @@
+Adjacency matrix
+  1 2 
+1 1 1 
+2 1 0 
+
+
+TopSort Result : Empty
+-1 2 1 
